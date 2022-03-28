@@ -10,7 +10,6 @@
     font-size: 24px;
     margin-top: 107px;
     color: #293845;
-
     display: flex;
     align-items: center;
     text-align: center;
@@ -26,7 +25,6 @@ header {
     color: #E8833A;
     font-weight: 400;
     font-size: 34px;
-
     background-color: #C3CFD9;
     display: flex;
     align-items: center;
@@ -44,7 +42,6 @@ header {
     font-weight: 400;
     font-size: 11px;
     color: #000000;
-
     display:flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -55,10 +52,8 @@ header {
     height: 26px;
     margin-left: 8px;
     margin-bottom: 18px;
-
     box-sizing: border-box;
     border-radius: 12px;
-
     display: flex;
     text-align: center;
     justify-content: center;
@@ -85,7 +80,6 @@ header {
     font-size: 13px;
     line-height: 15px;
     color: #4E5A65;
-
     display: flex;
     justify-content: space-evenly;
 }
@@ -99,7 +93,6 @@ header {
 .book-session .circle {
     width: 24px;
     height: 24px;
-
     box-sizing: border-box;
     border-radius: 17px;
 }
@@ -149,7 +142,6 @@ header {
     font-size: 18px;
     margin-top: 57px;
     margin-bottom: 130px;
-
     background: #E8833A;
     border: none;
     border-radius: 3px;
@@ -167,7 +159,6 @@ footer {
     height: 117px;
     background-color: #DFE6ED;
     border: 1px solid #9EADBA;
-
     display: flex;
     align-items: center;
 }
@@ -179,7 +170,6 @@ footer .img-container {
     background-color: #FFFFFF;
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
     border-radius: 2px;
-
     display: flex;
     align-items: center;
     justify-content: center;

@@ -9,7 +9,7 @@ import Footer from "../Footer";
 export default function Sessao() {
     const { idMovie } = useParams();
 
-    const [Info, setInfo] = useState({});
+    const [info, setInfo] = useState({});
 
     const [sessions, setSessions] = useState([]);
 
@@ -41,7 +41,7 @@ export default function Sessao() {
                 }
             </div>
 
-            <Footer image={Info.posterURL} movieTitle={Info.title} />
+            <Footer image={info.posterURL} movieTitle={info.title} />
         </section>
     ) : (
         <p>Carregando</p>

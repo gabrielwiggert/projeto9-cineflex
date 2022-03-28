@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+* {
+    font-family: 'Roboto';
+    text-decoration: none;
+}
+
+h1 { 
+    font-weight: 400;
+    font-size: 24px;
+    margin-top: 107px;
+    color: #293845;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 67px;
+    width:100%;
+    color: #E8833A;
+    font-weight: 400;
+    font-size: 34px;
+    background-color: #C3CFD9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.success-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.success-page .success-message {
+    margin-top: 67px;
+    font-weight: 700;
+    font-size: 35px;
+    letter-spacing: 0.04em;
+    color: #247A6B;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.success-page h2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 0.04em;
+    color: #293845;
+}
+
+.success-page p {
+    font-weight: 400;
+    font-size: 22px;
+    letter-spacing: 0.04em;
+    color: #293845;
+}
+
+.success-page button {
+    width: 225px;
+    height: 42px;
+    color: #FFFFFF;
+    font-size: 18px;
+    margin: 62px 25%;
+    background: #E8833A;
+    border: none;
+    border-radius: 3px;
+}
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 117px;
+    background-color: #DFE6ED;
+    border: 1px solid #9EADBA;
+    display: flex;
+    align-items: center;
+}
+
+footer .img-container {
+    width: 64px;
+    height: 89px;
+    margin: auto 10px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer img{
+    width: 48px;
+    height: 72px;
+}
+
+footer * p {
+    color: #293845;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 30px;
+    margin: auto;
+}

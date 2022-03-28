@@ -10,7 +10,6 @@
     font-size: 24px;
     margin-top: 107px;
     color: #293845;
-
     display: flex;
     align-items: center;
     text-align: center;
@@ -26,7 +25,6 @@ header {
     color: #E8833A;
     font-weight: 400;
     font-size: 34px;
-
     background-color: #C3CFD9;
     display: flex;
     align-items: center;
@@ -39,7 +37,6 @@ header {
     font-size: 20px;
     line-height: 23px;
     letter-spacing: 0.02em;
-
     display: flex;
     align-items: center;
 }
@@ -54,14 +51,11 @@ header {
     height: 43px;
     left: 114px;
     top: 227px;
-
     color: #FFFFFF;
     font-weight: 400;
     font-size: 18px;
-
     background: #E8833A;
     border-radius: 3px;
-
     display: flex;
     justify-content: center;
     align-items: center;
@@ -75,7 +69,6 @@ footer {
     height: 117px;
     background-color: #DFE6ED;
     border: 1px solid #9EADBA;
-
     display: flex;
     align-items: center;
 }
@@ -87,7 +80,6 @@ footer .img-container {
     background-color: #FFFFFF;
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
     border-radius: 2px;
-
     display: flex;
     align-items: center;
     justify-content: center;

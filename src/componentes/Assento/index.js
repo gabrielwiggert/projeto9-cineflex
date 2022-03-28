@@ -104,7 +104,7 @@ export default function Assento() {
             </div>
 
 
-            <Link to={'/sucesso'} state={{
+            <Link to={'/Sucesso'} state={{
                 name: input, cpf: input2,
                 seats: getSeatNames, movie: getMovie.title, day: getDay.date, hora: getData.name
             }}>

@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 import "./style.css";
 
-export default function FirstScreen() {
+export default function Inicio() {
     const [movies, setMovies] = useState([]);
 
     useEffect(() => {
