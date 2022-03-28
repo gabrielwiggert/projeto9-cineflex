@@ -1,0 +1,13 @@
+/* estilos gerais da aplicação */
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  color: #293845;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+}
