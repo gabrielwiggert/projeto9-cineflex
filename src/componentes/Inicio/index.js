@@ -36,6 +36,6 @@ export default function FirstScreen() {
             </div>
         </section>
     ) : (
-        <p>Carregando...</p>
+        <p>Carregando</p>
     )
 }
